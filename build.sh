@@ -8,4 +8,4 @@ hostname
 
 pwd
 
-echo "Build Completed"
+echo "Build Completed Succesfully"
